@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0169-majority-element) |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
