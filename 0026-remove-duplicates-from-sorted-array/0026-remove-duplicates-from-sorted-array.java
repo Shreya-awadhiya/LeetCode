@@ -1,6 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int count = 0;
+    
         if(nums.length == 0){
             return 0;
         }
