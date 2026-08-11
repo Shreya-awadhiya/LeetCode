@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 ## Math
