@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0845-longest-mountain-in-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0344-reverse-string) |
+| [0845-longest-mountain-in-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## String Matching
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0845-longest-mountain-in-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Manacher
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
