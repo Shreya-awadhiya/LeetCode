@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
 | ------- |
