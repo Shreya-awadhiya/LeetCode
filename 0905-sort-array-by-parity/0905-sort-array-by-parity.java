@@ -12,6 +12,6 @@ class Solution {
                 arr[odd]=nums[i];
                 odd--;
             }
-        }return arr;
+        }return arr
     }
 }
