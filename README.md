@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
