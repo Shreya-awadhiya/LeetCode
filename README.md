@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1323-maximum-69-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
 | ------- |
