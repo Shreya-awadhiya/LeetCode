@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0697-degree-of-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0697-degree-of-an-array) |
+| [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
 | ------- |
