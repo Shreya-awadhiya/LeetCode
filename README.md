@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0383-ransom-note) |
 | [0697-degree-of-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0697-degree-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0383-ransom-note) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
