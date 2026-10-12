@@ -1,9 +1,13 @@
 class Solution {
       public int numIdenticalPairs(int[] A) {
-        int res = 0, count[] = new int[101];
-        for (int a: A) {
-            res += count[a]++;
+        int count = 0;
+        for(int i =0;i<A.length;i++){
+            for(int j = i+1; j <A.length;j++){
+                if(A[i] == A[j] && i < j){
+                    count++;
+                }
+            }
         }
-        return res;
+        return count;
     }
 }
