@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1323-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
