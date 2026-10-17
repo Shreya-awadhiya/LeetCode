@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0409-longest-palindrome) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
