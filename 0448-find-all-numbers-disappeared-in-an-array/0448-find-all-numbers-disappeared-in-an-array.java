@@ -1,19 +1,17 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> ans = new ArrayList<>();
+        HashSet<Integer> hs = new HashSet<>();
         
-        // Step 1: Mark visited numbers by making them negative
-        for (int i = 0; i < nums.length; i++) {
-            int index = Math.abs(nums[i]) - 1;
-            if (nums[index] > 0) {
-                nums[index] = -nums[index];
-            }
+        // Step 1: Add all elements of nums into the HashSet
+        for (int num : nums) {
+            hs.add(num);
         }
         
-        // Step 2: Positive numbers indicate missing numbers
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > 0) {
-                ans.add(i + 1);
+        // Step 2: Check which numbers from 1 to n are missing in the set
+        for (int i = 1; i <= nums.length; i++) {
+            if (!hs.contains(i)) {
+                ans.add(i);
             }
         }
         
