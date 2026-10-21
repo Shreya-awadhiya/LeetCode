@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
