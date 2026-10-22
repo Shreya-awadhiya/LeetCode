@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0409-longest-palindrome) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1002-find-common-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
