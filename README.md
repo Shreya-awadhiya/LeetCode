@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -369,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
