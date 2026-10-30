@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Shreya-awadhiya/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
