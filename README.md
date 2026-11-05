@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0912-sort-an-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
