@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1002-find-common-characters) |
+| [1332-remove-palindromic-subsequences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2540-minimum-common-value) |
