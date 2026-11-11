@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0268-missing-number) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
@@ -409,4 +412,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
