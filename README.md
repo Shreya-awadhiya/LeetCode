@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1002-find-common-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreya-awadhiya/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shreya-awadhiya/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
